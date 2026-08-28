@@ -1,0 +1,5 @@
+ARIMA(2,1,2) on ETTh2 - Oil Temperature
+Train size: 800 hours
+Test size: 200 hours
+MAE:  5.953
+RMSE: 7.114
