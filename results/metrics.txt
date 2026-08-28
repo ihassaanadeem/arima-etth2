@@ -1,5 +1,11 @@
-ARIMA(2,1,2) on ETTh2 - Oil Temperature
+ETTh2 Oil Temperature - ARIMA vs Random Forest
 Train size: 800 hours
 Test size: 200 hours
+
+ARIMA(2,1,2)
 MAE:  5.953
 RMSE: 7.114
+
+Random Forest (5 lag features)
+MAE:  4.425
+RMSE: 6.240
